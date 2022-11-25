@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7cef045e35cef68d8b45b4f70b409e9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialogsManagerSubscriptionEventChannel: {fileID: 11400000, guid: 6673d8d1f83d92140b42bbd704e6373f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

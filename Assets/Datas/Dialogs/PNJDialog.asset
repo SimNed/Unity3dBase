@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db638a8462c01fdfa2238a3cc933ac8, type: 3}
+  m_Name: PNJDialog
+  m_EditorClassIdentifier: 
+  dialogs:
+  - <TextFile>k__BackingField: {fileID: 4900000, guid: 8495a168994e46d59be8108e1993934c, type: 3}
+    <IsSayingOnce>k__BackingField: 1
+  - <TextFile>k__BackingField: {fileID: 4900000, guid: 748edb095e6978aea8db31e0828fbe30, type: 3}
+    <IsSayingOnce>k__BackingField: 0
+  - <TextFile>k__BackingField: {fileID: 4900000, guid: 2c7db6c74165d8aa2a353e93ec6c5956, type: 3}
+    <IsSayingOnce>k__BackingField: 1

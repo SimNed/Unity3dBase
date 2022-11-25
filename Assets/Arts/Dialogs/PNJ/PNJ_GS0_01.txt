@@ -1,0 +1,9 @@
+[Npc]Hey excuse-moi j'ai besoin d'aide !
+
+...Tu vois la boule jaune là-bas?
+
+[Pipine]Là-bas ? Oui je la vois.
+
+[Npc]Je ne sais pas marcher, tu peux aller me la chercher ?
+
+[Pipine]Bien sûr !

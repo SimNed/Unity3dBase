@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6a6b2405ed8bacbd4bf0007400bacad9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameCameraControllerSubscriptionEventChannel: {fileID: 11400000, guid: 49de8c83b83323de78cc1620d62e3654, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
